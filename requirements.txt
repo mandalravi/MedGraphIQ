@@ -1,1 +1,4 @@
 streamlit
+sentence_transformers
+plotly
+pyvis
